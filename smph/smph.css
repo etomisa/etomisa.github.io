@@ -274,15 +274,15 @@ h1{min-height:30px;}
 
 /*ブログ*/
 #blogstyle0 #blogmaintitle{
-	background:url(https://img.nogizaka46.com/blog/smph/img/h1top.gif) 0 0 repeat-x;
+	background:url(./h1top.gif) 0 0 repeat-x;
 	background-size:auto 100%;
 	}
 #blogstyle1 #blogmaintitle{
-	background:url(https://img.nogizaka46.com/blog/smph/img/h1member.gif) 0 0 repeat-x;
+	background:url(./h1member.gif) 0 0 repeat-x;
 	background-size:auto 100%;
 	}
 #blogstyle2 #blogmaintitle{
-	background:url(https://img.nogizaka46.com/blog/smph/img/h1staff.gif) 0 0 repeat-x;
+	background:url(./h1staff.gif) 0 0 repeat-x;
 	background-size:auto 100%;
 	}
 #blogmaintitle{height:61px;color:#fff;line-height:1;padding-left:8px;}
