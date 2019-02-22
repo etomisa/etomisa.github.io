@@ -1,4 +1,4 @@
-衛藤美彩 ブログ 备份 / eto misa blog backup/乃木坂46
+衛藤美彩 ブログ 备份 / eto misa blog backup/ 乃木坂46/nogizaka46
 
 https://etomisa.github.io/
 
